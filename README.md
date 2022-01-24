@@ -1,5 +1,5 @@
- # CURSO-TALLER: Introducción al análisis y visualización de datos en Python
-
+ # CURSO-TALLER: Introducción al aprendizaje de máquinas con Python
+ 
 ![alt text](https://github.com/ulises1229/INTRO-R-ENESJ/blob/master/figs/header.png)
 ![alt text](figs/python.png)
 

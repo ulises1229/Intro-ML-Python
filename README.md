@@ -24,7 +24,7 @@
 
 | Día        | Tema           | Contenido  |  Material   | Videos |
 | :-------------: |:-------------:|:-----| :-----:|:-----: |
-| Día 1      | Introducción al lenguaje Python| <ul> <li> Introducción y antecedentes</li> <li> Variables y tipos</li> <li> Funciones</li> <li>Librerías</li> <li>Pandas</li> </ul>|  <ol><li> [Presentación](pdf/dia1.pdf)</li> <li>[Código(Colab)](code/día1.ipynb)</li><li>[Proyecto Final](code/Solved/Day1)</li></ol> | [Video Día 1]()|
+| Día 1      | Introducción al lenguaje Python| <ul> <li> Introducción y antecedentes</li> <li> Variables y tipos</li> <li> Funciones</li> <li>Librerías</li> <li>Pandas</li> </ul>|  <ol><li> [Presentación](pdf/dia1.pdf)</li> <li>[Código(Colab)](code/dia1.ipynb)</li><li>[Proyecto Final](code/Solved/Day1)</li></ol> | [Video Día 1]()|
 | Día 2      |  Algoritmos de aprendizaje | <ul> <li> ¿Qué es Machine Learning? </li>   <li> Aprendizaje supervisado </li> <li> Regresión lineal <ul><li>Evaluación de modelos de regresión</li></ul> </ul> |  <ol><li></li> </ol>| [Video Día 2]()|
 | Día 3      | Entrenamiento | <ul> <li> Separación y entrenamiento </li> <ul><li>Validación cruzada (cross validation)</li></ul></ul>  |  <ol><li></li> </ol>  | [Video Día 3]()|
 | Día 4      | Regresiones| <ul>  <li> Regresión logística</li> <ul><li>Evaluación de modelos de regresión</li></ul></ul>| <ol><li></li> </ol>| [Video Día 4]()|

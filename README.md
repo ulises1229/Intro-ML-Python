@@ -1,6 +1,6 @@
  # CURSO-TALLER: Introducción al aprendizaje de máquinas con Python
  
-![alt text](https://github.com/ulises1229/Intro-ML-Python/blob/master/figs/header.png)
+
 ![alt text](figs/python.png)
 
 ## Fechas y horarios de impartición

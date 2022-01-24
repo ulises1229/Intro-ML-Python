@@ -1,4 +1,4 @@
- # CURSO-TALLER: Introducción al aprendizaje de máquinas con Python
+ # Curso-taller: Introducción al aprendizaje de máquinas con Python
  
 
 ![alt text](figs/python.png)

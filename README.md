@@ -28,6 +28,6 @@
 | Día 2      |  Algoritmos de aprendizaje | <ul> <li> ¿Qué es Machine Learning? </li>   <li> Aprendizaje supervisado </li> <li> Regresión lineal <ul><li>Evaluación de modelos de regresión</li></ul> </ul> |  <ol><li>[Código(Colab)](code/Día_2.ipynb)</li> </ol>| [Video Día 2](https://youtu.be/cl17iCFBMsQ)|
 | Día 3      | Entrenamiento | <ul> <li> Separación y entrenamiento </li> <ul><li>Validación cruzada (cross validation)</li></ul></ul>  |  <ol><li>[Código(Colab)](code/Día_3.ipynb)</li> </ol>  | [Video Día 3]()|
 | Día 4      | Regresiones| <ul>  <li> Regresión logística</li> <ul><li>Evaluación de modelos de regresión</li></ul></ul>| <ol><li>[Código(Colab)](code/Día_4.ipynb)</li> </ol>| [Video Día 4]()|
-| Día 5      | Aprendizaje profundo (Deep Learning) | <ul> <li> Introducción y definiciones</li> <li> Redes neuronales</li> <li> Deep Learning con TensorFlow</li><li>Arquitecturas</li> <li>Clasificación</li></ul> |  <ol><li></li> </ol>   |[Video Día 5]() |
+| Día 5      | Aprendizaje profundo (Deep Learning) | <ul> <li> Introducción y definiciones</li> <li> Redes neuronales</li> <li> Deep Learning con TensorFlow</li><li>Arquitecturas</li> <li>Clasificación</li></ul> |  <ol><li> [Presentación](pdf/dia5.pdf)</li> <li>[Código(Colab)](code/Dia_5.ipynb)</ol>   |[Video Día 5]() |
 
-##### Última modificación 24 de enero de 2022
+##### Última modificación 28 de enero de 2022

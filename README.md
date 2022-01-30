@@ -6,7 +6,7 @@
 ## Fechas y horarios de impartición
 > 24 - 28 de septiembre de 2022 de 09:00 - 13:00 horas
 
-## Página de curso introductorio a Python
+## Página de curso introductorio a Python (Edición anterior)
 > [www.hpclab.unam.mx/course/python](http://www.hpclab.unam.mx/course/python)
 
 ## Prerequisitos
